@@ -1,4 +1,6 @@
-<img width="1920" height="911" alt="register_fullscreen" src="https://github.com/user-attachments/assets/8bd67746-fcc2-4737-8b13-5a65dfab2087" /># 📚 Custom Auth UI Kit (Troy Course Lab Style)
+<img width="1920" height="911" alt="register_fullscreen" src="https://github.com/user-attachments/assets/8bd67746-fcc2-4737-8b13-5a65dfab2087" />
+
+# 📚 Custom Auth UI Kit (Troy Course Lab Style)
 
 This login and registration UI template is developed based on the ShadCN UI collection (starting from the `signup-02` template) but features significant customization in terms of interface (UI/UX) and includes custom form validation rules.
 
