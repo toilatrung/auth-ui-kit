@@ -1,0 +1,27 @@
+import LoginPage from "./pages/LoginPage";
+import RegisterPage from "./pages/RegisterPage";
+import { BrowserRouter, Routes, Route } from "react-router-dom";
+
+{/* TEST FEATURES */}
+function App() {
+  return (
+    <>
+      <div>TEST FEATURES</div>
+      <p>USING ENDPOINT "/register" TO ACCESS REGISTER PAGE</p>
+      <BrowserRouter>
+        <Routes>
+          <Route
+            path="/login"
+            element={<LoginPage />}
+          />
+          <Route
+            path="/register"
+            element={<RegisterPage />}
+          />
+        </Routes>
+      </BrowserRouter>
+    </>
+  )
+}
+
+export default App
