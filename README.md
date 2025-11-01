@@ -112,10 +112,12 @@ Below are visual representations (screenshots) showcasing the custom UI/UX desig
 
 **Image: Registration Page (Full Desktop View)**
 *Displays the clean two-column layout with the branded red background and the blurred, translucent white form panel.*
+
 <img width="1920" height="911" alt="register_fullscreen" src="https://github.com/user-attachments/assets/4bd3b4ae-c7be-4bf3-841d-e3d0b3ba7fc8" />
 
 **Image: Login Page (Full Desktop View)**
 *Highlights the consistent branding on the deep red background and the semi-transparent login form, maintaining UI/UX consistency.*
+
 <img width="1920" height="911" alt="login_fullscreen" src="https://github.com/user-attachments/assets/4d7e2722-3798-4316-9887-b6c8a72d882d" />
 
 
@@ -123,8 +125,10 @@ Below are visual representations (screenshots) showcasing the custom UI/UX desig
 
 **Image: Registration Form (Mobile View)**
 *Shows the registration form optimized for mobile, featuring a single-column layout that prioritizes content and readability.*
+
 <img width="459" height="738" alt="register_mobile" src="https://github.com/user-attachments/assets/0158c435-c7c1-4606-bff3-550b32214e78" />
 
 **Image: Login Form (Mobile View)**
 *Displays the mobile-optimized login form, demonstrating responsiveness and accessibility across smaller screens.*
+
 <img width="459" height="738" alt="login_mobile" src="https://github.com/user-attachments/assets/296f1168-b34a-4922-ad36-a9b77ddcf36a" />
