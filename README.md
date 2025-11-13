@@ -140,21 +140,32 @@ Open [http://localhost:5173](http://localhost:5173) to view it in your browser.
 
 ### Desktop Views
 
-**Registration Page (Full Desktop View)** <img width="1920" height="911" alt="register_fullscreen" src="https://github.com/user-attachments/assets/4bd3b4ae-c7be-4bf3-841d-e3d0b3ba7fc8" />
+**Registration Page (Full Desktop View)** 
 
-**Login Page (Full Desktop View)** <img width="1920" height="911" alt="login_fullscreen" src="https://github.com/user-attachments/assets/4d7e2722-3798-4316-9887-b6c8a72d882d" />
+<img width="1920" height="911" alt="register_fullscreen" src="https://github.com/user-attachments/assets/4bd3b4ae-c7be-4bf3-841d-e3d0b3ba7fc8" />
+
+**Login Page (Full Desktop View)** 
+
+<img width="1920" height="911" alt="login_fullscreen" src="https://github.com/user-attachments/assets/4d7e2722-3798-4316-9887-b6c8a72d882d" />
 
 ### Mobile Views
 
-**Registration Form (Mobile View)** <img width="459" height="738" alt="register_mobile" src="https://github.com/user-attachments/assets/0158c435-c7c1-4606-bff3-550b32214e78" />
+**Registration Form (Mobile View)** 
 
-**Login Form (Mobile View)** <img width="459" height="738" alt="login_mobile" src="https://github.com/user-attachments/assets/296f1168-b34a-4922-ad36-a9b77ddcf36a" />
+<img width="459" height="738" alt="register_mobile" src="https://github.com/user-attachments/assets/0158c435-c7c1-4606-bff3-550b32214e78" />
+
+**Login Form (Mobile View)** 
+
+<img width="459" height="738" alt="login_mobile" src="https://github.com/user-attachments/assets/296f1168-b34a-4922-ad36-a9b77ddcf36a" />
 
 ---
 
 ## 📦 Package Information
 
 **NPM Package:** [`@toilatrung/auth-ui-kit`](https://www.npmjs.com/package/@toilatrung/auth-ui-kit)
+
 **Version:** Latest stable
+
 **License:** MIT
+
 **Maintainer:** [Trịnh Quang Trung](https://github.com/toilatrung)
